@@ -22,3 +22,8 @@ header {
 header p {
 color : whitesmoke;
 }
+
+header p:last-child {
+    color:bisque;
+    text-align: center;
+}
