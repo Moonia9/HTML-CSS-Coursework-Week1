@@ -172,7 +172,7 @@ header p:last-child {
     }
 
     #badge:hover {
-        background-color: whitesmoke;
+        background-color: silver;
         transition-timing-function: ease-in-out;
         width: 200px;
     }
