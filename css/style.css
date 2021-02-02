@@ -167,6 +167,7 @@ header p:last-child {
         display: flex;
         opacity: 0.5;
         justify-content: center;
+        transition: height 3s;
 
     }
 
