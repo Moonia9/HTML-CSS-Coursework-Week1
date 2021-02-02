@@ -110,5 +110,13 @@ header p:last-child {
      text-align: center;
      color: bisque;
      padding-top: 50px;
-     position: center;
+    }
+
+    h3 ~ p {
+        background-color: whitesmoke;
+    }
+
+    h3 ~ p::first-letter {
+        font-size: x-large;
+        font-weight: bold;
     }
