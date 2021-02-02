@@ -27,3 +27,11 @@ header p:last-child {
     color:bisque;
     text-align: center;
 }
+
+/*navbar*/
+ .navbar li {
+     color: whitesmoke;
+     display: inline-block;
+     width: 100%;
+
+ }
