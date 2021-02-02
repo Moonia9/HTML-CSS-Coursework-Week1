@@ -166,7 +166,12 @@ header p:last-child {
         right : 20px;
         display: flex;
         opacity: 0.5;
-        
         justify-content: center;
 
+    }
+
+    #badge:hover {
+        background-color: whitesmoke;
+        transition-timing-function: ease-in-out;
+        width: 200px;
     }
