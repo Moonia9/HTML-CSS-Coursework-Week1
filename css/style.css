@@ -120,3 +120,9 @@ header p:last-child {
         font-size: x-large;
         font-weight: bold;
     }
+
+    .new-section img {
+        border: 5px solid bisque;
+        size: 50%;
+       
+    }
