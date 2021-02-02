@@ -123,6 +123,13 @@ header p:last-child {
 
     .new-section img {
         border: 5px solid bisque;
-        background-color: black;
-        
+    
     }
+
+    /*another section with curiosities*/
+
+.second-section cite  {
+    background-color: bisque;
+    color: black;
+}
+    
