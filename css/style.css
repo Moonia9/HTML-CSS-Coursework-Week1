@@ -71,6 +71,7 @@ header p:last-child {
 
  h1 ~ p {
      background-color: whitesmoke;
+     padding-bottom: 20px;
  }
  
  h1 ~ p::first-letter {
@@ -83,6 +84,8 @@ header p:last-child {
 
  .aside li {
      background-color: silver;
+     padding-top: 20px;
+     padding-bottom: 20px;
  }
  
  .container img {
@@ -92,8 +95,18 @@ header p:last-child {
      width: 300px;
      height: 300px;
      text-align: center;
+     
+     
  }
 
     .container img:first-of-type {
         border : 5px solid bisque ;
+    }
+
+    /*new section with paragraphs*/
+
+    .new-section h3 {
+        background-color: silver;
+     text-align: center;
+     color: bisque;
     }
