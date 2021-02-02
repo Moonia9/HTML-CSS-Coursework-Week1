@@ -149,9 +149,8 @@ header p:last-child {
     .add * {
         background-color: black;
         width: 100%;
-        padding: 5px;
-        font-size:larger;
+        padding: 50px;
         
-        color : white;
+        color :bisque;
 
     }
