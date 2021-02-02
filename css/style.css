@@ -106,7 +106,9 @@ header p:last-child {
     /*new section with paragraphs*/
 
     .new-section h3 {
-        background-color: silver;
+    background-color: silver;
      text-align: center;
      color: bisque;
+     padding-top: 50px;
+     position: center;
     }
