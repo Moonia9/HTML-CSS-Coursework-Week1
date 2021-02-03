@@ -67,6 +67,7 @@ header p:last-child {
      background-color: silver;
      text-align: center;
      color: bisque;
+     
  }
 
  h1 ~ p {
@@ -77,6 +78,7 @@ header p:last-child {
  h1 ~ p::first-letter {
      font-size: x-large;
      font-weight: bold;
+     justify-content: center;
  }
 
 
@@ -110,6 +112,7 @@ header p:last-child {
      text-align: center;
      color: bisque;
      padding-top: 50px;
+     justify-content: center;
     }
 
     h3 ~ p {
