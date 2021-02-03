@@ -197,3 +197,14 @@ header p:last-child {
         padding: 10px;
         background-color: silver;
     }
+
+
+    /* Media Queries */
+
+    @media only screen and (max-width: 320px) {
+        p:first-of-type > b {
+            font-size : 20px;
+
+
+        }
+    }
