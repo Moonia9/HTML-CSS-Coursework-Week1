@@ -82,6 +82,8 @@ header p:last-child {
  }
 
 
+
+
  /*in aside*/
 
  .aside li {
@@ -179,4 +181,19 @@ header p:last-child {
         background-color: silver;
         transition-timing-function: ease-in-out;
         width: 200px;
+    }
+
+    /* FlexBox */
+
+    .box {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .box div {
+        border : 1px solid bisque;
+        margin: 10px;
+        padding: 10px;
+        background-color: silver;
     }
